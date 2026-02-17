@@ -10,5 +10,7 @@ dependencies = [
     "langchain>=1.2.10",
     "langchain-community>=0.4.1",
     "langchain-ollama>=1.0.1",
+    "langchain-pinecone>=0.2.13",
+    "pypdf>=6.7.0",
     "python-dotenv>=1.2.1",
 ]
