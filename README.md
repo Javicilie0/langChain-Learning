@@ -1,4 +1,4 @@
-# LangChain Learning
+# LangChain Projects
 
 Personal learning repository — each branch covers a different topic.
 
